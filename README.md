@@ -22,14 +22,16 @@ I am passionate about building data pipelines, working with large datasets, and 
 - Built a preference-based roommate matching web app for BYU-I students
 - Implemented secure login, profile creation, and search features
 - Designed responsive UI as frontend lead
-[Project](https://github.com/mtracy909/Roommate-Matcher)
+
+[Project Link](https://github.com/mtracy909/Roommate-Matcher)
 
 ### Truveo 
 **Python * MoviePy * Beautiful Soup * ChatGPT API**
 - Led a team to build a tool that converts articles into 1-minute narrated videos
 - Built a web scraping pipeline and narration generation prompts
 - Automated video creation with MoviePy
-[Project](https://github.com/jschaefer18/Truveo)
+
+[Project Link](https://github.com/jschaefer18/Truveo)
 
 <!--
 **jschaefer18/jschaefer18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
